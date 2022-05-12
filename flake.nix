@@ -10,6 +10,5 @@
         description = "Simple devShell template with direnv integration and cross-platform setup";
       };
     }; 
-    defaultTemplate = self.templates.shell;
   };
 }
